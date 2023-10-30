@@ -7,7 +7,7 @@ return (
        <h2 className="card-title text-VeryDarkBlue font-Poppins font-bold">{title}</h2>
        <p className='text-GrayishBlue font-Poppins font-normal lg:text-xs text-base'>{content}</p>
        <div className="card-actions justify-end">
-       <img src={image} alt="playlist" />
+       <img src={image} alt="image" />
   </div>
 </div>
 </div>
